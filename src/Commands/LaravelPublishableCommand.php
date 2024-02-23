@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Telkins\LaravelPublishable\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelPublishableCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-publishable';
 
     public $description = 'My command';
 
